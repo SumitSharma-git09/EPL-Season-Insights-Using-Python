@@ -1,0 +1,6 @@
+python latest version 
+numpy
+pandas
+matplotlib
+seaborn
+jupyter notebook
